@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf5c9696-394a-44df-93cf-0e667514c56e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photospider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doingSomething.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="photospider.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/photospider.py">
+      <file leaf-file-name="doingSomething.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doingSomething.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="483">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/postLearning.py" />
         <option value="$PROJECT_DIR$/baidu360.py" />
         <option value="$PROJECT_DIR$/photospider.py" />
+        <option value="$PROJECT_DIR$/doingSomething.py" />
       </list>
     </option>
   </component>
@@ -97,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.photospider">
+  <component name="RunManager" selected="Python.doingSomething">
     <configuration name="baidu360" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,6 +112,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonSpider" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu360.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="doingSomething" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonSpider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doingSomething.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,14 +150,16 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.baidu360" />
       <item index="1" class="java.lang.String" itemvalue="Python.photospider" />
+      <item index="2" class="java.lang.String" itemvalue="Python.doingSomething" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.photospider" />
-        <item index="1" class="java.lang.String" itemvalue="Python.baidu360" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.doingSomething" />
+        <item index="1" class="java.lang.String" itemvalue="Python.photospider" />
+        <item index="2" class="java.lang.String" itemvalue="Python.baidu360" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +262,15 @@
     <entry file="file://$PROJECT_DIR$/photospider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doingSomething.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding />
         </state>
       </provider>
